@@ -8,6 +8,7 @@ body {
   background-color: #d9dcd6;
 }
 
+/* header section */
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -41,6 +42,7 @@ body {
   display: inline-block;
   margin-left: 25px;
 }
+/* end header section */
 
 a {
   color: #ffffff;
@@ -135,7 +137,7 @@ p {
   max-width: 150px;
 }
 
-.search-engine-optimization {
+.search-engine-optimization  {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
@@ -144,7 +146,7 @@ p {
   color: #ffffff;
 }
 
-.online-reputation-management {
+.online-reputation-management  {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
@@ -153,7 +155,7 @@ p {
   color: #ffffff;
 }
 
-.social-media-marketing {
+.social-media-marketing  {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
