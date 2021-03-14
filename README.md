@@ -4,7 +4,7 @@ This application is used to inform the user of different internet marketing tool
 
 # Screenshot
 
-![alt text](refactored-horiseon/assets/images/app-screenshot.png "Screenshot of application")
+![picture](images/app-screenshot.png "Screenshot of application")
 
 # Link to application
 
