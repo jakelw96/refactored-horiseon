@@ -4,7 +4,7 @@ This application is used to inform the user of different internet marketing tool
 
 # Screenshot
 
-![alt text](code-refactor/assets/images/app-screeshot.png "Screenshot of application")
+![alt text](code-refactor/assets/images/app-screenshot.png "Screenshot of application")
 
 # Link to application
 
